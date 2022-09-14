@@ -19,8 +19,8 @@ I created this project to see if we can actually understand the musical patterns
    ````
 2. Visit the [Run It](https://github.com/Sarathisme/music-recommendation-system/blob/readme-changes/README.md#run-it) section
 
-### Instal Jupyter and Python
-1. Clone this repo to get the .ipynb files
+
+##Clone this repo to get the .ipynb files
    ```shell
    $ git clone https://github.com/Sarathisme/music-recommendation-system.git
    ```
