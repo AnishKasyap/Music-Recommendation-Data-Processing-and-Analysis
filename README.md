@@ -7,17 +7,12 @@ A unsupervised learning model which analyses playlists and gives recommendations
 ### Why
 I created this project to see if we can actually understand the musical patterns of a listener with their playlist as source and what factors are really useful in determining the taste and interest of the listener.
 
-## Table of Contents
-1. [Next Steps](https://github.com/Sarathisme/music-recommendation-system/blob/readme-changes/README.md#next-steps)
-2. [Installation](https://github.com/Sarathisme/music-recommendation-system/blob/readme-changes/README.md#installation)
-3. [Run it](https://github.com/Sarathisme/music-recommendation-system/blob/readme-changes/README.md#run-it)
-
 1. Clone the repo 
 
    ```shell
    $ git clone https://github.com/Sarathisme/music-recommendation-system.git
    ````
-2. Visit the [Run It](https://github.com/Sarathisme/music-recommendation-system/blob/readme-changes/README.md#run-it) section
+
 
 ### Run it
 Unfortunately at this point we do not have a .tar or a pickle file for you to quickly plug and play the code.
