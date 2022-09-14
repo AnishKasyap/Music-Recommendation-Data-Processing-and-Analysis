@@ -2,7 +2,7 @@
 A unsupervised learning model which analyses playlists and gives recommendations. Dataset used is <a href="https://github.com/mdeff/fma#data">FMA</a>.
 
 
-<img width="300px" src="" />
+<img width="300px" src="https://github.com/AnishKasyap/Music-Recommendation-Data-Processing-and-Analysis/blob/main/Afdn.gif" />
 
 ### Why
 I created this project to see if we can actually understand the musical patterns of a listener with their playlist as source and what factors are really useful in determining the taste and interest of the listener.
