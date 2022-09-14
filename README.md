@@ -7,7 +7,7 @@ A unsupervised learning model which analyses playlists and gives recommendations
 ### Why
 I created this project to see if we can actually understand the musical patterns of a listener with their playlist as source and what factors are really useful in determining the taste and interest of the listener.
 
-1. Clone the repo 
+ Clone the repo 
 
    ```shell
    $ git clone https://github.com/Sarathisme/music-recommendation-system.git
