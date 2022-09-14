@@ -2,7 +2,7 @@
 A unsupervised learning model which analyses playlists and gives recommendations. Dataset used is <a href="https://github.com/mdeff/fma#data">FMA</a>.
 
 
-<img width="300px" src="https://www.linkedin.com/pulse/music-artist-you-dont-know-cameron-hadley?articleId=6585521909562134528" />
+<img width="300px" src="" />
 
 ### Why
 I created this project to see if we can actually understand the musical patterns of a listener with their playlist as source and what factors are really useful in determining the taste and interest of the listener.
